@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29418.71
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CetCalculator", "CetCalculator\CetCalculator.csproj", "{44D57928-6A76-4092-A568-F2505DA05766}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D57928-6A76-4092-A568-F2505DA05766}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D57928-6A76-4092-A568-F2505DA05766}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D57928-6A76-4092-A568-F2505DA05766}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D57928-6A76-4092-A568-F2505DA05766}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA19A0B8-4E01-490B-A85C-33716AF518EE}
+	EndGlobalSection
+EndGlobal
